@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss, mlake3, Lake, Max
 employee,nelias,Elias,Nick
